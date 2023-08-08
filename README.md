@@ -21,7 +21,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Seeing AI code suggestions in a Javascript file!
+## Step 2: Seeing AI code suggestions in a Javascript file
 
 _Nice work! :tada: You created a Codespace using a devcontainer file that installed Copilot!_
 
